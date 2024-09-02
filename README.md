@@ -17,4 +17,4 @@ In this game, a random word is chosen from a predefined list, and your goal is t
 
 1. **Clone the Repository**: Download or clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   https://github.com/Drsultanali/hangman-game.git
